@@ -10,11 +10,13 @@ Las páginas Web por las que navegamos a diario son solo una minúscula parte de
 
 ### LA DEEP WEB
 
-Definición #1 – (WEB PROFUNDA)
+### Definición #1 – (WEB PROFUNDA) 
+
 La Deep Web se traduce al español como ‘Internet profunda’, es la parte de la World Wide Web que no se puede descubrir mediante motores de búsqueda estándar, incluidas páginas dinámicas o protegidas con contraseña y redes cifradas. Se denomina así por la sencilla razón de que está compuesta por todo aquel contenido de Internet que, por diversos motivos, no está indexado por motores de búsqueda como Bing, Yahoo o el propio Google (entre muchos otros). Lo que todos los usuarios utilizamos de forma diaria, se denomina ‘Internet superficial’.
 
 
- 	Es el resto que está “escondido” para los grandes motores de búsqueda y para el público en general.  A esta parte de Internet se le conoce como Deep Web y representa más del 90% del contenido de la red.
+<li type="disc"> Es el resto que está “escondido” para los grandes motores de búsqueda y para el público en general.  A esta parte de Internet se le conoce como Deep Web y representa más del 90% del contenido de la red. </li>
+
 
 
 ### Definición #2
