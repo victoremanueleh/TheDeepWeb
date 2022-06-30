@@ -10,7 +10,7 @@ Las páginas Web por las que navegamos a diario son solo una minúscula parte de
 
 
 <h1>Esta es una imagen</h1>
-[imagen](https://cdn.discordapp.com/attachments/885270943235199028/991841424851091586/unnamed.jpg)
+![imagen](https://cdn.discordapp.com/attachments/885270943235199028/991841424851091586/unnamed.jpg)
 
 
 Puedes copiar el texto que esta dentro del recuadro:
