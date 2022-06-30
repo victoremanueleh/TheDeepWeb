@@ -1,6 +1,8 @@
 ## ¿Qué es la DEEP WEB?
+```markdown
+Para comprender mejor que es la 'DEEP WEB' debemos saber la definición de la Surface web.
+```
 
-Para comprender mejor que es la DEEP WEB debemos saber la definición de la Surface web.
 
 ### Surface Web (WEB SUPERFICIAL)
 
