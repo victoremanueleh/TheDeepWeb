@@ -19,7 +19,10 @@ La Deep Web se traduce al español como ‘Internet profunda’, es la parte de 
 ### Definición #2
 La Deep Web solo son páginas que no están indexadas y por lo tanto no visibles para los grandes buscadores como pueden ser Google y Bind, para acceder a ellas, solo necesitamos conocer la ruta de acceso. Puede contener bases de datos, blogs, publicaciones académicas… Solo porque no estén indexadas en ningún buscador principal no significa que el contenido de la DeepWeb sea ilegal o peligroso.
 
+<li type="circle">El 90% del contenido de la red no es accesible a través buscadores. Eso es una parte de la Deep Web, que engloba toda la información a la que no puedes acceder públicamente.</li>
+<li type="circle">	Puede tratarse de páginas convencionales protegidas por un paywall, pero también archivos guardados en Dropbox, correos guardados en los servidores de tu proveedor, y todas esas páginas que se crean durante unos instantes, por ejemplo, cuando configuras un buscador de viajes y te muestra el contenido.</li>
 
+``` `Nota:` Para poder buscar la Deep Web se puede utilizar también algún buscador dentro de la red anónima TOR, ya que estás páginas suelen estar envueltas con un .onion como primer nivel de dominio.```
 
 
 
