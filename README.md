@@ -1,4 +1,3 @@
-## THE DEEP WEB
 
 ### ¿Qué es la DEEP WEB?
 
@@ -9,7 +8,7 @@ Surface Web (WEB SUPERFICIAL)
 Las páginas Web por las que navegamos a diario son solo una minúscula parte de lo que realmente hay en la red, a esta parte de la red visible se le conoce como Surface Web. Esta parte de la red solo representa aproximadamente un 4% del total.
 
 
-LA DEEP WEB
+### LA DEEP WEB
 
 Definición #1 – (WEB PROFUNDA)
 La Deep Web se traduce al español como ‘Internet profunda’, es la parte de la World Wide Web que no se puede descubrir mediante motores de búsqueda estándar, incluidas páginas dinámicas o protegidas con contraseña y redes cifradas. Se denomina así por la sencilla razón de que está compuesta por todo aquel contenido de Internet que, por diversos motivos, no está indexado por motores de búsqueda como Bing, Yahoo o el propio Google (entre muchos otros). Lo que todos los usuarios utilizamos de forma diaria, se denomina ‘Internet superficial’.
@@ -18,11 +17,13 @@ La Deep Web se traduce al español como ‘Internet profunda’, es la parte de 
  	Es el resto que está “escondido” para los grandes motores de búsqueda y para el público en general.  A esta parte de Internet se le conoce como Deep Web y representa más del 90% del contenido de la red.
 
 
-Definición #2
+### Definición #2
+
 La Deep Web solo son páginas que no están indexadas y por lo tanto no visibles para los grandes buscadores como pueden ser Google y Bind, para acceder a ellas, solo necesitamos conocer la ruta de acceso. Puede contener bases de datos, blogs, publicaciones académicas… Solo porque no estén indexadas en ningún buscador principal no significa que el contenido de la DeepWeb sea ilegal o peligroso.
 
-	El 90% del contenido de la red no es accesible a través buscadores. Eso es una parte de la Deep Web, que engloba toda la información a la que no puedes acceder públicamente. 
-	Puede tratarse de páginas convencionales protegidas por un paywall, pero también archivos guardados en Dropbox, correos guardados en los servidores de tu proveedor, y todas esas páginas que se crean durante unos instantes, por ejemplo, cuando configuras un buscador de viajes y te muestra el contenido.
+<li type="circle">El 90% del contenido de la red no es accesible a través buscadores. Eso es una parte de la Deep Web, que engloba toda la información a la que no puedes acceder públicamente.</li>
+
+<li type="circle">Puede tratarse de páginas convencionales protegidas por un paywall, pero también archivos guardados en Dropbox, correos guardados en los servidores de tu proveedor, y todas esas páginas que se crean durante unos instantes, por ejemplo, cuando configuras un buscador de viajes y te muestra el contenido.</li>
 
 
 Nota: Para poder buscar la Deep Web se puede utilizar también algún buscador dentro de la red anónima TOR, ya que estás páginas suelen estar envueltas con un .onion como primer nivel de dominio.
@@ -89,14 +90,16 @@ La Deep Web ofrece a los miembros de la sociedad que viven bajo regímenes polí
 
 El mundo oculto de la Deep web contiene una gran cantidad de datos, información y una gran cantidad de posibilidades, que incluyen, entre otras, las siguientes:
 
-•	Intranet de multitud de empresas, asociaciones y organizaciones comerciales.
-•	Los sistemas de intranet de escuelas, colegios y universidades.
-•	Acceso a bases de datos en línea.
-•	Sitios web protegidos con contraseña con acceso solo para miembros
-•	Páginas de Paywall
-•	Páginas de acceso cronometrado como las que se encuentran en plataformas online para realizar exámenes
-•	Eludir muros de pago para el contenido digital bloqueado
-•	Cuenta personal de un individuo para redes sociales, correo electrónico, banca, etc.
+
+<li type="square">Intranet de multitud de empresas, asociaciones y organizaciones comerciales. </li>
+<li type="square">Los sistemas de intranet de escuelas, colegios y universidades. </li>
+<li type="square">Acceso a bases de datos en línea. </li>
+<li type="square">Sitios web protegidos con contraseña con acceso solo para miembros </li>
+<li type="square">Páginas de Paywall </li>
+<li type="square">Páginas de acceso cronometrado como las que se encuentran en plataformas online para realizar exámenes </li>
+<li type="square">Eludir muros de pago para el contenido digital bloqueado </li>
+<li type="square">Cuenta personal de un individuo para redes sociales, correo electrónico, banca, etc. </li>
+
 
 
 
@@ -253,5 +256,5 @@ Como bien hemos visto, no hay que dejarse llevar rápidamente y pensar que por d
 
 
 
-``` Puedes descargar este pdf presionando [aquí](https://cdn.discordapp.com/attachments/885263628977197056/987389910359085086/LA_DEEP_WEB_-_EN_LA_WEB_nuevo.pdf) ```
+Puedes descargar este pdf presionando [aquí](https://cdn.discordapp.com/attachments/885263628977197056/987389910359085086/LA_DEEP_WEB_-_EN_LA_WEB_nuevo.pdf)
 
